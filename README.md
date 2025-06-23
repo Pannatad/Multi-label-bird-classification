@@ -1,3 +1,3 @@
 # Multi-label-bird-classification
 
-Furry lover
+Realtime multi-label classification with Thai birds datasets
